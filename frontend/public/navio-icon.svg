@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded square background matching the sample -->
+  <rect x="32" y="32" width="448" height="448" rx="64" ry="64" fill="#E5E5E5"/>
+
+  <!-- Centered NAVIO text -->
+  <g font-family="Inter, Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif"
+     font-weight="700" font-size="128" fill="#333333" text-anchor="middle" dominant-baseline="middle">
+    <text x="256" y="270">NAVIO</text>
+  </g>
+</svg>

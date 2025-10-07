@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Device 1",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "speed": 30,
+    "status": "safe"
+  },
+  {
+    "id": 2,
+    "name": "Device 2",
+    "latitude": 19.0760,
+    "longitude": 72.8777,
+    "speed": 45,
+    "status": "alert"
+  },
+  {
+    "id": 3,
+    "name": "Device 3",
+    "latitude": 28.7041,
+    "longitude": 77.1025,
+    "speed": 20,
+    "status": "safe"
+  }
+]

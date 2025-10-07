@@ -1,0 +1,16 @@
+{
+  "name": "navio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "NAVIO monorepo (frontend + backend)",
+  "scripts": {
+    "gen:icons": "node frontend/scripts/generate-icons.mjs"
+  },
+  "dependencies": {
+    "framer-motion": "^11.0.0"
+  },
+  "devDependencies": {
+    "png-to-ico": "^2.1.8",
+    "sharp": "^0.33.4"
+  }
+}
